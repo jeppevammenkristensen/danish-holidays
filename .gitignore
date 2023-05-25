@@ -1,0 +1,74 @@
+# .NET Core / .NET Standard
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.exe.config
+*.deps.json
+*.runtimeconfig.json
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+*.bak
+*.log
+*.vs/
+*.vscode/
+*.idea/
+
+# Visual Studio files
+*.suo
+*.user
+*.userprefs
+*.proj
+*.csproj
+*.sln
+*.sln.dotsettings
+
+# Roslyn cache directories
+*.ide/
+*.roslyn/
+
+# NuGet
+/.nuget/
+*.nupkg
+/packages/
+
+# Build Folders
+[Bb]in/
+[Oo]bj/
+
+# Resharper cache
+_ReSharper.*
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# Installshield output folder
+[Ee]xpress/
+
+# DocProject file
+[Dd]oc[Ss]tyle.*
+
+# Local History for Visual Studio
+.localhistory/
+
+# Log files
+*.log
+logs/
+
+# macOS
+.DS_Store
+
+# Unity
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+/[Ll]ibrary/
+/[Ll]ocal[Cc]ache/
+/[Uu]nity[Cc]rashHandler64
